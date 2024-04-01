@@ -1,0 +1,7 @@
+  rent for cooler 
+
+desert air cooler_rent for 1hr=500/-
+personal air cooler_rent for 1hr=100/-
+tower air cooler _rent for 1hr=150/-
+portable air cooler_rent for 1hr= 200/-
+window cooler_rent for 1hr=250/-
